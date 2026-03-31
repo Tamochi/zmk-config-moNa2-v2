@@ -21,13 +21,13 @@ layers:
   - J
   - K
   - L
-  - ;
+  - '-'
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
   - B
-  - F14
+  - TAB
   - ENTER
   - N
   - M
@@ -36,11 +36,11 @@ layers:
   - /
   - LCTRL
   - LEFT WIN
-  - F16
-  - BACKSPACE
+  - LEFT ALT
+  - {t: '&to_layer_0 DELETE', h: '4'}
   - {t: ENTER, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
-  - {t: '&to_layer_0 LANG1', h: '4'}
+  - {t: '&to_layer_0 BACKSPACE', h: '4'}
   - {t: SPACE, h: '1'}
   - LEFT ALT
   '1':
@@ -209,10 +209,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR ALL
   '5':
