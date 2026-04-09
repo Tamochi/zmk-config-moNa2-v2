@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: mona2}
 layers:
   default:
-  - '&q_tab'
+  - Q
   - W
   - E
   - R
@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - B
-  - '4'
+  - TAB
   - ENTER
   - N
   - M
@@ -199,7 +199,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: '&mkp MB1', type: held}
+  - '&mkp MB1'
   - '&bootloader'
   - '1'
   - '2'
@@ -209,7 +209,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - '&mkp MB2'
   - {t: ▽, type: trans}
