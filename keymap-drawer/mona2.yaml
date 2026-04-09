@@ -21,13 +21,13 @@ layers:
   - J
   - K
   - L
-  - '='
+  - '-'
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
   - B
-  - SPACE
+  - '4'
   - ENTER
   - N
   - M
@@ -38,11 +38,11 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - '4'
-  - '2'
+  - {t: '&to_layer_0 SPACE', h: '2'}
   - {t: '&to_layer_0 DELETE', h: '3'}
   - BACKSPACE
   - '4'
-  - Alt+~
+  - Alt+`
   '1':
   - '1'
   - '2'
@@ -92,7 +92,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - UP ARROW
   - ''
   - '{'
   - '}'
@@ -102,9 +102,9 @@ layers:
   - ''
   - ''
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - ''
-  - ''
+  - LEFT
+  - DOWN ARROW
+  - RIGHT
   - ;
   - ''''
   - ''
@@ -157,8 +157,8 @@ layers:
   - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - BT CLR
-  - BT CLR ALL
+  - ''
+  - ''
   - ''
   - ''
   - ''
@@ -181,8 +181,8 @@ layers:
   - '7'
   - '8'
   - '9'
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
+  - ''
+  - ''
   - LEFT
   - DOWN
   - RIGHT
@@ -199,22 +199,22 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&mkp MB1'
+  - {t: '&mkp MB1', type: held}
   - '&bootloader'
   - '1'
   - '2'
   - '3'
   - {t: ▽, type: trans}
-  - BT CLR
+  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB2'
   - {t: ▽, type: trans}
   - '0'
-  - BT CLR ALL
+  - ''
   '5':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
