@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - B
-  - TAB
+  - SPACE
   - ENTER
   - N
   - M
@@ -37,12 +37,12 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: '&to_layer_0 DELETE', h: '4'}
+  - {t: '4', h: toggle}
   - {t: ENTER, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
+  - {t: '&to_layer_0 DELETE', h: '3'}
   - {t: '&to_layer_0 BACKSPACE', h: '4'}
   - {t: SPACE, h: '1'}
-  - LEFT ALT
+  - Alt+~
   '1':
   - '1'
   - '2'
@@ -96,7 +96,7 @@ layers:
   - '&'
   - '*'
   - '-'
-  - _
+  - +
   - '`'
   - '~'
   - '"'
@@ -174,24 +174,24 @@ layers:
   - {t: ▽, type: trans}
   '4':
   - {t: ▽, type: trans}
+  - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
+  - '7'
+  - '8'
+  - '9'
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
+  - LEFT
+  - DOWN
+  - RIGHT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '4'
+  - '5'
+  - '6'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -201,19 +201,19 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&bootloader'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '1'
+  - '2'
+  - '3'
   - {t: ▽, type: trans}
   - BT CLR
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '0'
   - BT CLR ALL
   '5':
   - {t: ▽, type: trans}
