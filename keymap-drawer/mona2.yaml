@@ -15,7 +15,7 @@ layers:
   - S
   - D
   - F
-  - {t: '&to_layer_0 G', h: '4'}
+  - G
   - F10
   - H
   - J
@@ -187,7 +187,7 @@ layers:
   - DOWN
   - RIGHT
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '4'
   - '5'
@@ -209,7 +209,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - '&mkp MB2'
   - {t: ▽, type: trans}
