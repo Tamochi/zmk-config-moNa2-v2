@@ -42,7 +42,7 @@ layers:
   - {t: '&to_layer_0 DELETE', h: '3'}
   - BACKSPACE
   - '4'
-  - Alt+`
+  - {t: '&to_layer_0 LA(GRAVE)', h: '4'}
   '1':
   - '1'
   - '2'
@@ -120,9 +120,9 @@ layers:
   - '0'
   - '-'
   - '='
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LCTRL
+  - LEFT WIN
+  - RIGHT ALT
   - {t: ▽, type: trans}
   - {type: held}
   - LSHIFT
@@ -163,9 +163,9 @@ layers:
   - F10
   - F11
   - F12
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LCTRL
+  - LEFT WIN
+  - LEFT ALT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
